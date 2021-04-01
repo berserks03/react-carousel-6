@@ -1,0 +1,15 @@
+.arrowLeft,
+.arrowRight {
+  font-size: 2rem;
+  z-index: 10;
+  position: fixed;
+  top: 50%;
+}
+
+.arrowLeft {
+  left: 0.5rem;
+}
+
+.arrowRight {
+  right: 0.5rem;
+}
